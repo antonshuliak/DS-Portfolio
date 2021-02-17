@@ -4,6 +4,7 @@
 # Очистка, аналіз та візуалізація даних
 - [BankCustomers](https://github.com/antonshuliak/DS-Portfolio/blob/master/CardCustomer.ipynb)
 - [Football Leagues](https://github.com/antonshuliak/DS-Portfolio/blob/master/Football.ipynb)
+- [Traffic](https://github.com/antonshuliak/DS-Portfolio/blob/master/Traffic.ipynb)
 # Статистичний аналіз
 
 # Аналіз часових рядів
