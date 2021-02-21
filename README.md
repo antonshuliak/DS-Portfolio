@@ -5,7 +5,7 @@
 
 - [BankCustomers](https://github.com/antonshuliak/DS-Portfolio/blob/master/CardCustomer.ipynb): аналіз клієнтів банку та побудова простих моделей для оцінки того, чи користується клієнт карткою
 - [Football Leagues](https://github.com/antonshuliak/DS-Portfolio/blob/master/Football.ipynb): аналіз статистичних даних найкращих футбольних ліг. Порівняння відміностей між 2018 та 2019 роком. Пошук футболістів з найкращою статистикою.
-- [Traffic](https://github.com/antonshuliak/DS-Portfolio/blob/master/Traffic.ipynb): Аналіз залежності трафіку від реклами.
+- [Traffic](https://github.com/antonshuliak/DS-Portfolio/blob/master/Traffic.ipynb): Аналіз залежності трафіку від кількості реклами, курсу долара та середньої зарплати.
 
 ## Статистичний аналіз
 - [ABtest](https://github.com/antonshuliak/DS-Portfolio/blob/master/ABtest.ipynb): порівняння впливу різних типів заставок на утримання гравців.
