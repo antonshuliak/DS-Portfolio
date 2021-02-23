@@ -4,7 +4,7 @@
 # Машинне навчання
 
 ## Регресія
-- [HousePrice](https://github.com/antonshuliak/DS-Portfolio/blob/master/Price.ipynb): побудова регресійних моделей для передбачення ціни будинку. Створення усередненої моделі. 
+- [HousePrice](https://github.com/antonshuliak/DS-Portfolio/blob/master/Price.ipynb): відбір та створення нових ознак, трансформація даних, підбір параметрів регресійних моделей. Створення усередненої моделі 
 ## Класифікація
 
 ## Кластеризація
